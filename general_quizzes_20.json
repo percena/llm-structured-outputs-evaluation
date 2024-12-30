@@ -1,0 +1,204 @@
+{
+    "quizzes": [
+        {
+            "question": "What is the capital of France?",
+            "choices": [
+                "Paris",
+                "London",
+                "Berlin",
+                "Madrid"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "choices": [
+                "Earth",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "choices": [
+                "Gold",
+                "Oxygen",
+                "Silver",
+                "Iron"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "choices": [
+                "Charles Dickens",
+                "Jane Austen",
+                "William Shakespeare",
+                "Mark Twain"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "choices": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "In which continent is Egypt located?",
+            "choices": [
+                "Asia",
+                "Europe",
+                "Africa",
+                "South America"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "choices": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Quartz"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "choices": [
+                "Earth",
+                "Venus",
+                "Mars",
+                "Jupiter"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the currency of Japan?",
+            "choices": [
+                "Dollar",
+                "Yen",
+                "Euro",
+                "Won"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "choices": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Claude Monet"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the tallest mountain in the world?",
+            "choices": [
+                "K2",
+                "Kangchenjunga",
+                "Mount Everest",
+                "Lhotse"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "choices": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "choices": [
+                "Tomato",
+                "Avocado",
+                "Pepper",
+                "Onion"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the smallest country in the world?",
+            "choices": [
+                "Monaco",
+                "Vatican City",
+                "San Marino",
+                "Liechtenstein"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which organ is responsible for pumping blood throughout the body?",
+            "choices": [
+                "Liver",
+                "Lungs",
+                "Heart",
+                "Kidneys"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "What is the main language spoken in Brazil?",
+            "choices": [
+                "Spanish",
+                "English",
+                "Portuguese",
+                "French"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "choices": [
+                "1912",
+                "1905",
+                "1898",
+                "1920"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "choices": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Brisbane"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "Which instrument has 88 keys?",
+            "choices": [
+                "Guitar",
+                "Piano",
+                "Violin",
+                "Flute"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the primary color of the sun in a clear sky?",
+            "choices": [
+                "Red",
+                "Yellow",
+                "Blue",
+                "Green"
+            ],
+            "answer": 1
+        }
+    ]
+}
